@@ -1,0 +1,11 @@
+#a
+{
+-speed:25
+-bool:true
+-this is a string test:"test"
+-this is a numerical test:25
+}
+#b
+{
+-speedb:255
+}
